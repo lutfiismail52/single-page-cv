@@ -1,3 +1,1 @@
-# Single Page CV
-
-Project URL: https://lutfiismail52.github.io/single-page-cv/
+https://hilarious-granita-963a8f.netlify.app/
