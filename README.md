@@ -1,3 +1,7 @@
-https://github.com/lutfiismail52/single-page-cv
-https://hilarious-granita-963a8f.netlify.app/
-https://roadmap.sh/projects/single-page-cv
+# Single-Page CV
+
+Solution for the [Single-Page CV](https://roadmap.sh/projects/single-page-cv) challenge from [roadmap.sh](https://roadmap.sh/).
+
+## How to Run
+
+Clone this repository and open `index.html` file.
